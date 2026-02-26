@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.0",
+  "latest_version": "2.0.1",
   "firmware": {
     "pro": {
       "c3": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.2.bin",
