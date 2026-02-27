@@ -1,0 +1,100 @@
+{
+  "firmware_versions": [
+    {
+      "device_type": "pro",
+      "chip_type": "c3",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.2.bin",
+          "release_date": "2024-02-27",
+          "notes": "Latest stable release"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.1.bin",
+          "release_date": "2024-02-20",
+          "notes": "Previous stable"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c3_v2.0.0.bin",
+          "release_date": "2024-02-01",
+          "notes": "Initial 2.0 release"
+        }
+      ]
+    },
+    {
+      "device_type": "pro",
+      "chip_type": "c2",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.2.bin",
+          "release_date": "2024-02-27",
+          "notes": "Latest stable release"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.1.bin",
+          "release_date": "2024-02-20",
+          "notes": "Previous stable"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/pro_c2_v2.0.0.bin",
+          "release_date": "2024-02-01",
+          "notes": "Initial 2.0 release"
+        }
+      ]
+    },
+    {
+      "device_type": "standard",
+      "chip_type": "c3",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.2.bin",
+          "release_date": "2024-02-27",
+          "notes": "Latest stable release"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.1.bin",
+          "release_date": "2024-02-20",
+          "notes": "Previous stable"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.0.bin",
+          "release_date": "2024-02-01",
+          "notes": "Initial 2.0 release"
+        }
+      ]
+    },
+    {
+      "device_type": "standard",
+      "chip_type": "c2",
+      "versions": [
+        {
+          "version": "2.0.2",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.2.bin",
+          "release_date": "2024-02-27",
+          "notes": "Latest stable release"
+        },
+        {
+          "version": "2.0.1",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.1.bin",
+          "release_date": "2024-02-20",
+          "notes": "Previous stable"
+        },
+        {
+          "version": "2.0.0",
+          "url": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.0.bin",
+          "release_date": "2024-02-01",
+          "notes": "Initial 2.0 release"
+        }
+      ]
+    }
+  ]
+}
