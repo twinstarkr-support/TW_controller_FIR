@@ -7,7 +7,7 @@
     },
     "standard": {
       "c3": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c3_v2.0.2.bin",
-      "c2": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v3.0.0.bin"
+      "c2": "https://raw.githubusercontent.com/twinstarkr-support/TW_controller_FIR/main/std_c2_v2.0.2.bin"
     }
   }
 }
